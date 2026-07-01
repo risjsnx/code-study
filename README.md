@@ -1,1 +1,1 @@
-[risjsnx.github.com/code-study/](risjsnx.github.com/code-study/)
+[risjsnx.github.io/code-study/](risjsnx.github.io/code-study/)
